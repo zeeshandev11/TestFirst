@@ -1,0 +1,4 @@
+src/com/test/TestOb.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/test/TestOb.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/com/test/TestOb.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Test
+src/com/test/TestOb.java:3:	TestClassWithoutTestCases:	TestClassWithoutTestCases: The class 'Test' might be a test class, but it contains no test cases.
